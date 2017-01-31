@@ -1,0 +1,9 @@
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\IntersectionOfDates\IntersectionOfDates\bin\Debug\IntersectionOfDates.exe.config
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\IntersectionOfDates\IntersectionOfDates\bin\Debug\IntersectionOfDates.exe
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\IntersectionOfDates\IntersectionOfDates\bin\Debug\IntersectionOfDates.pdb
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\IntersectionOfDates\IntersectionOfDates\obj\Debug\IntersectionOfDates.csprojResolveAssemblyReference.cache
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\IntersectionOfDates\IntersectionOfDates\obj\Debug\IntersectionOfDates.exe
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\IntersectionOfDates\IntersectionOfDates\obj\Debug\IntersectionOfDates.pdb
+C:\Users\Shiva.Marimallaiah\Documents\TimeRange\IntersectionOfDates\bin\Debug\IntersectionOfDates.exe.config
+C:\Users\Shiva.Marimallaiah\Documents\TimeRange\IntersectionOfDates\obj\Debug\IntersectionOfDates.exe
+C:\Users\Shiva.Marimallaiah\Documents\TimeRange\IntersectionOfDates\obj\Debug\IntersectionOfDates.pdb
